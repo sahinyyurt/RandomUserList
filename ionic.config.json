@@ -1,0 +1,7 @@
+{
+  "name": "RandomUser",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
