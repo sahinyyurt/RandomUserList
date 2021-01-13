@@ -38,3 +38,30 @@
     border-bottom: 1px solid #dbe0e5;
 }
 
+.profile-header  {
+    display: flex;
+    flex: 1;
+    padding: 0px 0px 20px 20px;
+    align-items: center;
+    border-bottom: 1px solid #dbe0e5; 
+}
+
+.name-container {
+    padding-left: 33px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.name-title  {
+    font-size: 16px;
+    font-weight: 500;
+    color: #b1b8c5;
+    padding-bottom: 5px;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: 500;
+    color: #6374f3;
+}
